@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Guitarra stratocaster",
+      "price": 900.80
+    },
+    {
+      "id": 2,
+      "name": "PC Gamer",
+      "price": 12000.80
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "price": 5000.89
+    }
+  ]
+}
